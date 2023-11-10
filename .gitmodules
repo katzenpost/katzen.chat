@@ -1,0 +1,3 @@
+[submodule "themes/hello-cats"]
+	path = themes/hello-cats
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng
