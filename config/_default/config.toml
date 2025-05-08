@@ -101,19 +101,19 @@ disableHugoGeneratorInject = false
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
   [params.footer]
-    trademark = true
-    rss = true
-    copyright = true
-    author = true
+    trademark = false
+    rss = false
+    copyright = false
+    author = false
 
-    topText = []
-    bottomText = [
+    topText = [
       "This project has received funding from:",
       "European Union\u2019s Horizon 2020 research and innovation programme under the Grant Agreement No 653497, Privacy and Accountability in Networks via Optimized Randomized Mix-nets (Panoramix).",
       "The Samsung Next Stack Zero grant.",
       "NGI0 PET Fund, a fund established by NLnet with financial support from the European Commission\u2019s Next Generation Internet programme, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 825310.",
       "NGI Assure Fund, a fund established by NLnet with financial support from the European Commission\u2019s Next Generation Internet programme, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 957073.",
     ]
+    bottomText = []
 
   # Colors for favicons
   [params.favicon.color]
