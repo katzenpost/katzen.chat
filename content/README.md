@@ -168,9 +168,9 @@ After updating a dependency, run the above command (or use make docker-build-nix
 ## supported by
 
 [![NGI](https://katzenpost.mixnetworks.org/_static/images/eu-flag-tiny.jpg)](https://www.ngi.eu/about/)
-<a href="https://nlnet.nl"><img src="https://nlnet.nl/logo/banner.svg" width="160" alt="NLnet Foundation"/></a>
-<a href="https://nlnet.nl/assure"><img src="https://nlnet.nl/image/logos/NGIAssure_tag.svg" width="160" alt="NGI Assure"/></a>
-<a href="https://nlnet.nl/NGI0"><img src="https://nlnet.nl/image/logos/NGI0PET_tag.svg" width="160" alt="NGI Zero PET"/></a>
+[![nlnet.nl](https://nlnet.nl/logo/banner.svg)](https://nlnet.nl)
+[![nlnet.nl/assure](https://nlnet.nl/image/logos/NGIAssure_tag.svg)](https://nlnet.nl/assure)
+[![nlnet.nl/NGI0](https://nlnet.nl/image/logos/NGI0PET_tag.svg)](https://nlnet.nl/NGI0)
 
 This project has received funding from:
 
