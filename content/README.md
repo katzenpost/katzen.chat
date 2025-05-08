@@ -167,10 +167,10 @@ After updating a dependency, run the above command (or use make docker-build-nix
 
 ## supported by
 
-[![NGI](https://nlnet.nl/image/logos/EC.svg)](https://www.ngi.eu/about/)
-[![nlnet.nl](https://nlnet.nl/logo/banner.svg)](https://nlnet.nl)
-[![nlnet.nl/assure](https://nlnet.nl/image/logos/NGIAssure_tag.svg)](https://nlnet.nl/assure)
-[![nlnet.nl/NGI0](https://nlnet.nl/image/logos/NGI0PET_tag.svg)](https://nlnet.nl/NGI0)
+[![NGI](https://nlnet.nl/image/logos/EC.svg){width=160}](https://www.ngi.eu/about/)
+[![nlnet.nl](https://nlnet.nl/logo/banner.svg){width=160}](https://nlnet.nl)
+[![nlnet.nl/assure](https://nlnet.nl/image/logos/NGIAssure_tag.svg){width=160}](https://nlnet.nl/assure)
+[![nlnet.nl/NGI0](https://nlnet.nl/image/logos/NGI0PET_tag.svg){width=160}](https://nlnet.nl/NGI0)
 
 This project has received funding from:
 
