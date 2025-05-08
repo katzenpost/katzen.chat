@@ -151,10 +151,6 @@ disableHugoGeneratorInject = false
     name = "github"
     url  = "https://github.com/katzenpost/katzen"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://stackoverflow.com/search?q=katzenpost"
-
 [languages]
   [languages.en]
     weight    = 1
