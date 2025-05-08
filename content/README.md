@@ -2,8 +2,6 @@ katzen
 =======
 
 [![Build Status](https://github.com/katzenpost/katzen/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/katzenpost/katzen/actions/workflows/go.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/katzenpost/katzen)](https://goreportcard.com/report/github.com/katzenpost/katzen)
-[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://pkg.go.dev/github.com/katzenpost/katzen?tab=doc)
 
 A multiplatform chat client using catshadow and gio
 
