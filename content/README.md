@@ -102,12 +102,7 @@ See the [golang install instructions](http://golang.org/doc/install.html).
 
 #### Building for Windows
 
-Windows builds are currently broken, since the addition of libsphincsplus in
-late 2022, and they had not actually been tested recently prior to that (though
-they were building in CI under Linux). If you wish to try to solve this problem
-this is a place to start:
-
-    GOOS=windows CGO_ENABLED=1 CC=x86_64-w64-mingw32-gcc CGO_CFLAGS_ALLOW="-DPARAMS=sphincs-shake-256f" go build -trimpath -ldflags="-H windowsgui -buildid=" -o katzen.exe
+    GOOS=windows CGO_ENABLED=1 CGO_LDFLAGS="-Wl,--no-as-needed -Wl,-allow-multiple-definition" CC=x86_64-w64-mingw32-gcc go build -trimpath -ldflags="-H windowsgui -buildid=" -o katzen.exe
 
 #### Building for macOS (Intel), requires macOS and xcode
 
