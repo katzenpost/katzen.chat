@@ -87,12 +87,6 @@ See the [golang install instructions](http://golang.org/doc/install.html).
 
    go mod download && go mod verify
 
-####
-
-Before building be sure to set the environment variable `CGO_CFLAGS_ALLOW`:
-
-    export CGO_CFLAGS_ALLOW="-DPARAMS=sphincs-shake-256f"
-
 #### Build katzen
 
     go build -trimpath -ldflags=-buildid=
